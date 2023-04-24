@@ -1,2 +1,2 @@
-/venv/
-!/venv/*.py
+/selenium_env/
+!/selenium_env/*.py
