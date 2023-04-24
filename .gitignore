@@ -1,2 +1,5 @@
-/selenium_env/
 !/selenium_env/*.py
+!/selenium_env/
+/selenium_env/Lib
+/selenium_env/Scripts
+/selenium_env/pyvenv.cfg
