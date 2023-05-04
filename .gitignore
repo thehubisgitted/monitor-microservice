@@ -1,6 +1,6 @@
-!/selenium_env/*.py
-!/selenium_env/
 /selenium_env/Lib
 /selenium_env/Scripts
 /selenium_env/pyvenv.cfg
 /selenium_env/Include
+/selenium_env/__pycache__/
+.env
